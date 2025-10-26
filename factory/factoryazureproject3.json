@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureproject3",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a48d0257-bce6-4489-8925-79303e55a83c",
+		"tenantId": "c951d664-9179-4dfb-b9e9-6a8ff8d37b5e"
+	}
+}
